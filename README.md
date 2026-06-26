@@ -6,7 +6,7 @@
 
 CaseTrack is a premium, neumorphic-styled mobile and web application designed for Indian legal practitioners to track court hearings, case outcomes, client details, and notes.
 
-![CaseTrack Screenshot](screenshot.jpg)
+![CaseTrack Screenshot](screenshot.png)
 
 ## Features 🚀
 
