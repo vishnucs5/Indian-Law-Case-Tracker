@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048850954155",
+    "project_id": "case-tracker-49cb5",
+    "storage_bucket": "case-tracker-49cb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048850954155:android:319d1ae8670c0470a584ee",
+        "android_client_info": {
+          "package_name": "com.casetrack.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ojGT1TRYi6HU_S_LPdFblMccy0PLMkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
