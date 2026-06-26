@@ -1,5 +1,9 @@
 # CaseTrack ⚖️
 
+<p align="center">
+  <img src="assets/images/app_icon.png" width="160" height="160" alt="CaseTrack Logo" style="border-radius: 32px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);">
+</p>
+
 CaseTrack is a premium, neumorphic-styled mobile and web application designed for Indian legal practitioners to track court hearings, case outcomes, client details, and notes.
 
 ![CaseTrack Screenshot](screenshot.jpg)
